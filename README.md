@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="200" width="400" alig src="./about.gif" />
+  <img height="400" width="400" alig src="./about.gif" />
 </p>
 
 ### Hi there, I'm Gary 🙋‍♂️
