@@ -10,4 +10,4 @@
   - 🔭 [Workaholic App](https://github.com/Workaholic-Lab): An efficiency management app
   - :blossom:[Botanical Book](): A WeChat applet for plant connoisseurs
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gary-code&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gary-code&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
