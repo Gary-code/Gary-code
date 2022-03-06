@@ -1,7 +1,7 @@
 <p align="center">
   <figure>
-    <img align="left" height="230" alig src="./about.gif" />
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Gary-code&show_icons=true&theme=tokyonight&include_all_commits=true" />
+    <img align="left" height="200" alig src="./about.gif" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gary-code&show_icons=true&theme=tokyonight&include_all_commits=true" />
   </figure>
 </p>
 
