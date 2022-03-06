@@ -2,12 +2,13 @@
   <img height="400" alig src="./about.gif" />
 </p>
 
-<center>
+
+<<p align="center">>
   <figure>
     <img align="left" height="300" alig src="./about.gif" />
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=Gary-code&show_icons=true&theme=tokyonight" />
   </figure>
-</center>
+</p>
 
 
 
