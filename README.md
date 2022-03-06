@@ -3,7 +3,7 @@
 </p>
 
 <center>
-  <img height="400" alig src="./about.gif" />
+  <img height="300" alig src="./about.gif" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gary-code&show_icons=true&theme=tokyonight" />
 </center>
 
