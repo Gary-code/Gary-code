@@ -5,6 +5,8 @@
   </figure>
 </p>
 
+![](./about.gif)|![](https://github-readme-stats.vercel.app/api?username=Gary-code&show_icons=true&theme=tokyonight&include_all_commits=true)
+---|---
 
 
 
