@@ -2,6 +2,11 @@
   <img height="400" alig src="./about.gif" />
 </p>
 
+<center>
+  <img height="400" alig src="./about.gif" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gary-code&show_icons=true&theme=tokyonight" />
+</center>
+
 ### Hi there, I'm Gary 🙋‍♂️
 
 - 🌱 I’m currently working on the following projects:
@@ -10,7 +15,7 @@
   - 🔭 [Workaholic App](https://github.com/Workaholic-Lab): An efficiency management app
   - :blossom:[Botanical Book](): A WeChat applet for plant connoisseurs
 
-[![Gary's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gary-code&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
