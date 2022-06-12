@@ -1,6 +1,6 @@
 <p align="center">
   <figure>
-    <img alig src="./about.gif" />
+    <img alig width="400" src="./about.gif" />
   </figure>
 </p>
 
